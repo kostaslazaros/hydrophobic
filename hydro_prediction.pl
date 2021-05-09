@@ -95,6 +95,10 @@ if ($sequence_length_numeric != length($sequence)){
 @cm2 = (0) x 4;
 @cm3 = (0) x 4;
 
+$csv_file = "results-$k1-$k2-$k3.csv";
+
+open(FH, '>', $csv_file) or die $!;
+
 for($i=0; $i<length($sequence); $i++){
 	$num = $i + 1; 
 	$cr1 = substr($sequence, $i, 1);
@@ -161,8 +165,10 @@ for($i=0; $i<length($sequence); $i++){
 		$h3 = 0.1;
 		$b3 = 0;
 	}
-	print "$num,$cr1,$trans,$h1,$h2,$h3,$b1,$b2,$b3,$hydrovalue1[$num],$hydrovalue2[$num],$hydrovalue3[$num] \n";
-} 
+	print FH "$num,$cr1,$trans,$h1,$h2,$h3,$b1,$b2,$b3,$hydrovalue1[$num],$hydrovalue2[$num],$hydrovalue3[$num] \n";
+}
+close(FH);
+
 # print "True positive: $cm1[0] True negative: $cm1[1] False positive: $cm1[2] False negative: $cm1[3]\n";
 # print "True positive: $cm2[0] True negative: $cm2[1] False positive: $cm2[2] False negative: $cm2[3]\n";
 # print "True positive: $cm3[0] True negative: $cm3[1] False positive: $cm3[2] False negative: $cm3[3]\n";
