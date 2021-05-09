@@ -1,0 +1,1161 @@
+ID   OPSD_BOVIN              Reviewed;         348 AA.
+AC   P02699;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   07-APR-2021, entry version 209.
+DE   RecName: Full=Rhodopsin;
+GN   Name=RHO;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Laurasiatheria; Artiodactyla; Ruminantia; Pecora; Bovidae;
+OC   Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   PROTEIN SEQUENCE, RETINAL-BINDING SITE AT LYS-296, AND ACETYLATION AT
+RP   MET-1.
+RX   PubMed=6759163; DOI=10.1016/0014-5793(82)80805-3;
+RA   Ovchinnikov Y.A.;
+RT   "Rhodopsin and bacteriorhodopsin: structure-function relationships.";
+RL   FEBS Lett. 148:179-191(1982).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6194890; DOI=10.1016/0092-8674(83)90537-8;
+RA   Nathans J., Hogness D.S.;
+RT   "Isolation, sequence analysis, and intron-exon arrangement of the gene
+RT   encoding bovine rhodopsin.";
+RL   Cell 34:807-814(1983).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 6-348.
+RX   PubMed=2950966; DOI=10.1016/0169-328x(86)90031-8;
+RA   Kuo C.-H., Yamagata K., Moyzis R.K., Bitensky M.W., Miki N.;
+RT   "Multiple opsin mRNA species in bovine retina.";
+RL   Brain Res. 387:251-260(1986).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 205-348.
+RX   PubMed=6228228; DOI=10.1016/0006-291x(83)90560-0;
+RA   Koike S., Nabeshima Y., Ogata K., Fukui T., Ohtsuka E., Ikehara M.,
+RA   Tokunaga F.;
+RT   "Isolation and nucleotide sequence of a partial cDNA clone for bovine
+RT   opsin.";
+RL   Biochem. Biophys. Res. Commun. 116:563-567(1983).
+RN   [5]
+RP   PARTIAL PROTEIN SEQUENCE, IDENTIFICATION BY MASS SPECTROMETRY, SUBCELLULAR
+RP   LOCATION, AND TISSUE SPECIFICITY.
+RC   TISSUE=Retina;
+RX   PubMed=9541408; DOI=10.1002/pro.5560070325;
+RA   Ball L.E., Oatis J.E. Jr., Dharmasiri K., Busman M., Wang J., Cowden L.B.,
+RA   Galijatovic A., Chen N., Crouch R.K., Knapp D.R.;
+RT   "Mass spectrometric analysis of integral membrane proteins: application to
+RT   complete mapping of bacteriorhodopsins and rhodopsin.";
+RL   Protein Sci. 7:758-764(1998).
+RN   [6]
+RP   GLYCOSYLATION AT ASN-2 AND ASN-15.
+RX   PubMed=468821;
+RA   Fukuda M.N., Papermaster D.S., Hargrave P.A.;
+RT   "Rhodopsin carbohydrate. Structure of small oligosaccharides attached at
+RT   two sites near the NH2 terminus.";
+RL   J. Biol. Chem. 254:8201-8207(1979).
+RN   [7]
+RP   RETINAL-BINDING SITE, AND PARTIAL PROTEIN SEQUENCE.
+RX   PubMed=6870827; DOI=10.1042/bj2110045;
+RA   Mullen E., Akhtar M.;
+RT   "Structural studies on membrane-bound bovine rhodopsin.";
+RL   Biochem. J. 211:45-54(1983).
+RN   [8]
+RP   PALMITOYLATION AT CYS-322 AND CYS-323, SUBCELLULAR LOCATION, AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=3350146; DOI=10.1016/0014-5793(88)80628-8;
+RA   Ovchinnikov Y.A., Abdulaev N.G., Bogachuk A.S.;
+RT   "Two adjacent cysteine residues in the C-terminal cytoplasmic fragment of
+RT   bovine rhodopsin are palmitylated.";
+RL   FEBS Lett. 230:1-5(1988).
+RN   [9]
+RP   DISULFIDE BOND.
+RX   PubMed=2145276;
+RA   Karnik S.S., Khorana H.G.;
+RT   "Assembly of functional rhodopsin requires a disulfide bond between
+RT   cysteine residues 110 and 187.";
+RL   J. Biol. Chem. 265:17520-17524(1990).
+RN   [10]
+RP   PHOSPHORYLATION AT SER-343, AND FUNCTION.
+RX   PubMed=1396673; DOI=10.1111/j.1432-1033.1992.tb17232.x;
+RA   Brown N.G., Fowles C., Sharma R., Akhtar M.;
+RT   "Mechanistic studies on rhodopsin kinase. Light-dependent phosphorylation
+RT   of C-terminal peptides of rhodopsin.";
+RL   Eur. J. Biochem. 208:659-667(1992).
+RN   [11]
+RP   PALMITOYLATION AT CYS-322 AND CYS-323.
+RX   PubMed=1512231;
+RA   Papac D.I., Thornburg K.R., Buellesbach E.E., Crouch R.K., Knapp D.R.;
+RT   "Palmitylation of a G-protein coupled receptor. Direct analysis by tandem
+RT   mass spectrometry.";
+RL   J. Biol. Chem. 267:16889-16894(1992).
+RN   [12]
+RP   MUTAGENESIS.
+RX   PubMed=9405601; DOI=10.1073/pnas.94.26.14267;
+RA   Cai K., Langen R., Hubbell W.L., Khorana H.G.;
+RT   "Structure and function in rhodopsin: topology of the C-terminal
+RT   polypeptide chain in relation to the cytoplasmic loops.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:14267-14272(1997).
+RN   [13]
+RP   INTERACTION WITH RCVRN AND GRK1.
+RX   PubMed=17020884; DOI=10.1074/jbc.m606913200;
+RA   Ames J.B., Levay K., Wingard J.N., Lusin J.D., Slepak V.Z.;
+RT   "Structural basis for calcium-induced inhibition of rhodopsin kinase by
+RT   recoverin.";
+RL   J. Biol. Chem. 281:37237-37245(2006).
+RN   [14]
+RP   SUBUNIT, INTERACTION WITH GNAT1, RETINAL-BINDING, TISSUE SPECIFICITY,
+RP   SUBCELLULAR LOCATION, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=23303210; DOI=10.1096/fj.12-225383;
+RA   Jastrzebska B., Orban T., Golczak M., Engel A., Palczewski K.;
+RT   "Asymmetry of the rhodopsin dimer in complex with transducin.";
+RL   FASEB J. 27:1572-1584(2013).
+RN   [15]
+RP   INTERACTION WITH SAG.
+RX   PubMed=26200343; DOI=10.1038/nature14656;
+RA   Kang Y., Zhou X.E., Gao X., He Y., Liu W., Ishchenko A., Barty A.,
+RA   White T.A., Yefanov O., Han G.W., Xu Q., de Waal P.W., Ke J., Tan M.H.,
+RA   Zhang C., Moeller A., West G.M., Pascal B.D., Van Eps N., Caro L.N.,
+RA   Vishnivetskiy S.A., Lee R.J., Suino-Powell K.M., Gu X., Pal K., Ma J.,
+RA   Zhi X., Boutet S., Williams G.J., Messerschmidt M., Gati C., Zatsepin N.A.,
+RA   Wang D., James D., Basu S., Roy-Chowdhury S., Conrad C.E., Coe J., Liu H.,
+RA   Lisova S., Kupitz C., Grotjohann I., Fromme R., Jiang Y., Tan M., Yang H.,
+RA   Li J., Wang M., Zheng Z., Li D., Howe N., Zhao Y., Standfuss J.,
+RA   Diederichs K., Dong Y., Potter C.S., Carragher B., Caffrey M., Jiang H.,
+RA   Chapman H.N., Spence J.C., Fromme P., Weierstall U., Ernst O.P.,
+RA   Katritch V., Gurevich V.V., Griffin P.R., Hubbell W.L., Stevens R.C.,
+RA   Cherezov V., Melcher K., Xu H.E.;
+RT   "Crystal structure of rhodopsin bound to arrestin by femtosecond X-ray
+RT   laser.";
+RL   Nature 523:561-567(2015).
+RN   [16]
+RP   INTERACTION WITH PRCD, SUBCELLULAR LOCATION, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RX   PubMed=27509380; DOI=10.1021/acs.biochem.6b00489;
+RA   Spencer W.J., Pearring J.N., Salinas R.Y., Loiselle D.R., Skiba N.P.,
+RA   Arshavsky V.Y.;
+RT   "Progressive Rod-Cone Degeneration (PRCD) Protein Requires N-Terminal S-
+RT   Acylation and Rhodopsin Binding for Photoreceptor Outer Segment
+RT   Localization and Maintaining Intracellular Stability.";
+RL   Biochemistry 55:5028-5037(2016).
+RN   [17]
+RP   SUBCELLULAR LOCATION, SUBUNIT, AND TISSUE SPECIFICITY.
+RX   PubMed=28655769; DOI=10.1074/jbc.m117.797100;
+RA   Gao Y., Westfield G., Erickson J.W., Cerione R.A., Skiniotis G.,
+RA   Ramachandran S.;
+RT   "Isolation and structure-function characterization of a signaling-active
+RT   rhodopsin-G protein complex.";
+RL   J. Biol. Chem. 292:14280-14289(2017).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) IN COMPLEX WITH ZINC ION AND
+RP   ALL-TRANS-RETINAL, FUNCTION, SUBCELLULAR LOCATION, TOPOLOGY, GLYCOSYLATION
+RP   AT ASN-2 AND ASN-15, AND DISULFIDE BOND.
+RX   PubMed=10926528; DOI=10.1126/science.289.5480.739;
+RA   Palczewski K., Kumasaka T., Hori T., Behnke C.A., Motoshima H., Fox B.A.,
+RA   Le Trong I., Teller D.C., Okada T., Stenkamp R.E., Yamamoto M., Miyano M.;
+RT   "Crystal structure of rhodopsin: a G protein-coupled receptor.";
+RL   Science 289:739-745(2000).
+RN   [19] {ECO:0007744|PDB:1HZX}
+RP   X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS) IN COMPLEX WITH RETINAL CHROMOPHORE
+RP   AND ZINC ION, PALMITOYLATION AT CYS-322 AND CYS-323, TOPOLOGY,
+RP   GLYCOSYLATION AT ASN-2 AND ASN-15, AND DISULFIDE BOND.
+RX   PubMed=11425302; DOI=10.1021/bi0155091;
+RA   Teller D.C., Okada T., Behnke C.A., Palczewski K., Stenkamp R.E.;
+RT   "Advances in determination of a high-resolution three-dimensional structure
+RT   of rhodopsin, a model of G-protein-coupled receptors (GPCRs).";
+RL   Biochemistry 40:7761-7772(2001).
+RN   [20]
+RP   STRUCTURE BY NMR IN INACTIVATED AND ACTIVATED FORMS.
+RX   PubMed=11570894; DOI=10.1021/bi015543f;
+RA   Yeagle P.L., Choi G., Albert A.D.;
+RT   "Studies on the structure of the G-protein-coupled receptor rhodopsin
+RT   including the putative G-protein binding site in unactivated and activated
+RT   forms.";
+RL   Biochemistry 40:11932-11937(2001).
+RN   [21]
+RP   STRUCTURE BY NMR IN INACTIVATED AND ACTIVATED FORMS IN COMPLEX WITH
+RP   ALL-TRANS-RETINAL, FUNCTION, TOPOLOGY, AND DISULFIDE BOND.
+RX   PubMed=12044163; DOI=10.1021/bi025507w;
+RA   Choi G., Landin J., Galan J.F., Birge R.R., Albert A.D., Yeagle P.L.;
+RT   "Structural studies of metarhodopsin II, the activated form of the G-
+RT   protein coupled receptor, rhodopsin.";
+RL   Biochemistry 41:7318-7324(2002).
+RN   [22] {ECO:0007744|PDB:1L9H}
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) IN COMPLEX WITH ZINC AND
+RP   ALL-TRANS-RETINAL, TOPOLOGY, GLYCOSYLATION AT ASN-15, PALMITOYLATION AT
+RP   CYS-322 AND CYS-323, AND DISULFIDE BONDS.
+RX   PubMed=11972040; DOI=10.1073/pnas.082666399;
+RA   Okada T., Fujiyoshi Y., Silow M., Navarro J., Landau E.M., Shichida Y.;
+RT   "Functional role of internal water molecules in rhodopsin revealed by X-ray
+RT   crystallography.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:5982-5987(2002).
+RN   [23]
+RP   STRUCTURE BY NMR OF 330-348 IN COMPLEX WITH SAG, AND PHOSPHORYLATION AT
+RP   SER-334; THR-335; THR-336; SER-338; THR-340; THR-342 AND SER-343.
+RX   PubMed=15111114; DOI=10.1016/s0014-5793(04)00226-1;
+RA   Kisselev O.G., McDowell J.H., Hargrave P.A.;
+RT   "The arrestin-bound conformation and dynamics of the phosphorylated
+RT   carboxy-terminal region of rhodopsin.";
+RL   FEBS Lett. 564:307-311(2004).
+RN   [24] {ECO:0007744|PDB:1NZS}
+RP   STRUCTURE BY NMR OF 330-348 IN COMPLEX WITH SAG, AND PHOSPHORYLATION AT
+RP   SER-334; THR-335; THR-336; SER-338; THR-340; THR-342 AND SER-343.
+RX   PubMed=15351781; DOI=10.1074/jbc.m407341200;
+RA   Kisselev O.G., Downs M.A., McDowell J.H., Hargrave P.A.;
+RT   "Conformational changes in the phosphorylated C-terminal domain of
+RT   rhodopsin during rhodopsin arrestin interactions.";
+RL   J. Biol. Chem. 279:51203-51207(2004).
+RN   [25] {ECO:0007744|PDB:1U19}
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEX WITH ZINC AND
+RP   ALL-TRANS-RETINAL, TOPOLOGY, PALMITOYLATION AT CYS-322 AND CYS-323,
+RP   GLYCOSYLATION AT ASN-2 AND ASN-15, AND DISULFIDE BOND.
+RX   PubMed=15327956; DOI=10.1016/j.jmb.2004.07.044;
+RA   Okada T., Sugihara M., Bondar A.N., Elstner M., Entel P., Buss V.;
+RT   "The retinal conformation and its environment in rhodopsin in light of a
+RT   new 2.2 A crystal structure.";
+RL   J. Mol. Biol. 342:571-583(2004).
+RN   [26]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS) IN COMPLEX WITH ALL-TRANS-RETINAL,
+RP   TOPOLOGY, GLYCOSYLATION AT ASN-2 AND ASN-15, AND DISULFIDE BONDS.
+RX   PubMed=15491621; DOI=10.1016/j.jmb.2004.08.090;
+RA   Li J., Edwards P.C., Burghammer M., Villa C., Schertler G.F.;
+RT   "Structure of bovine rhodopsin in a trigonal crystal form.";
+RL   J. Mol. Biol. 343:1409-1438(2004).
+RN   [27]
+RP   STRUCTURE BY NMR OF 231-252.
+RX   PubMed=7578070; DOI=10.1021/bi00045a002;
+RA   Yeagle P.L., Alderfer J.L., Albert A.D.;
+RT   "Structure of the third cytoplasmic loop of bovine rhodopsin.";
+RL   Biochemistry 34:14621-14625(1995).
+RN   [28]
+RP   STRUCTURE BY NMR OF 1-40; 93-123; 172-205 AND 268-293.
+RX   PubMed=10888202; DOI=10.1034/j.1399-3011.2000.00707.x;
+RA   Yeagle P.L., Salloum A., Chopra A., Bhawsar N., Ali L., Kuzmanovski G.,
+RA   Alderfer J.L., Albert A.D.;
+RT   "Structures of the intradiskal loops and amino terminus of the G-protein
+RT   receptor, rhodopsin.";
+RL   J. Pept. Res. 55:455-465(2000).
+RN   [29]
+RP   STRUCTURE BY NMR OF 291-315.
+RX   PubMed=10930473;
+RA   Yeagle P.L., Danis C., Choi G., Alderfer J.L., Albert A.D.;
+RT   "Three dimensional structure of the seventh transmembrane helical domain of
+RT   the G-protein receptor, rhodopsin.";
+RL   Mol. Vis. 6:125-131(2000).
+RN   [30]
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) IN COMPLEX WITH RETINAL CHROMOPHORE,
+RP   FUNCTION, AND TOPOLOGY.
+RX   PubMed=16586416; DOI=10.1002/anie.200600595;
+RA   Nakamichi H., Okada T.;
+RT   "Crystallographic analysis of primary visual photochemistry.";
+RL   Angew. Chem. Int. Ed. 45:4270-4273(2006).
+RN   [31] {ECO:0007744|PDB:2HPY}
+RP   X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS) OF INACTIVATED AND ACTIVATED FORMS
+RP   IN COMPLEX WITH RETINAL CHROMOPHORE, FUNCTION, TOPOLOGY, PALMITOYLATION AT
+RP   CYS-322 AND CYS-323, GLYCOSYLATION AT ASN-2 AND ASN-15, AND DISULFIDE
+RP   BONDS.
+RX   PubMed=16908857; DOI=10.1073/pnas.0601765103;
+RA   Nakamichi H., Okada T.;
+RT   "Local peptide movement in the photoreaction intermediate of rhodopsin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:12729-12734(2006).
+RN   [32]
+RP   X-RAY CRYSTALLOGRAPHY (3.80 ANGSTROMS) INACTIVATED AND ACTIVATED FORMS,
+RP   FUNCTION, AND TOPOLOGY.
+RX   PubMed=17060607; DOI=10.1073/pnas.0608022103;
+RA   Salom D., Lodowski D.T., Stenkamp R.E., Le Trong I., Golczak M.,
+RA   Jastrzebska B., Harris T., Ballesteros J.A., Palczewski K.;
+RT   "Crystal structure of a photoactivated deprotonated intermediate of
+RT   rhodopsin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:16123-16128(2006).
+RN   [33]
+RP   X-RAY CRYSTALLOGRAPHY (2.95 ANGSTROMS) INACTIVATED AND ACTIVATED FORMS IN
+RP   COMPLEX WITH RETINAL CHROMOPHORE, FUNCTION, AND TOPOLOGY.
+RX   PubMed=17449675; DOI=10.1529/biophysj.107.108225;
+RA   Nakamichi H., Buss V., Okada T.;
+RT   "Photoisomerization mechanism of rhodopsin and 9-cis-rhodopsin revealed by
+RT   x-ray crystallography.";
+RL   Biophys. J. 92:L106-L108(2007).
+RN   [34]
+RP   X-RAY CRYSTALLOGRAPHY (3.40 ANGSTROMS) OF 3-348, TOPOLOGY, AND MUTAGENESIS
+RP   OF ASN-2; ASN-15 AND ASP-282.
+RX   PubMed=17825322; DOI=10.1016/j.jmb.2007.03.007;
+RA   Standfuss J., Xie G., Edwards P.C., Burghammer M., Oprian D.D.,
+RA   Schertler G.F.;
+RT   "Crystal structure of a thermally stable rhodopsin mutant.";
+RL   J. Mol. Biol. 372:1179-1188(2007).
+RN   [35]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS), AND TOPOLOGY.
+RX   PubMed=18645239; DOI=10.1107/s0907444908017162;
+RA   Stenkamp R.E.;
+RT   "Alternative models for two crystal structures of bovine rhodopsin.";
+RL   Acta Crystallogr. D 64:902-904(2008).
+RN   [36]
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS), DIMERIZATION, SUBUNIT, AND
+RP   TOPOLOGY.
+RX   PubMed=18563085; DOI=10.1038/nature07063;
+RA   Park J.H., Scheerer P., Hofmann K.P., Choe H.-W., Ernst O.P.;
+RT   "Crystal structure of the ligand-free G-protein-coupled receptor opsin.";
+RL   Nature 454:183-187(2008).
+RN   [37] {ECO:0007744|PDB:3DQB}
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS) IN COMPLEX WITH GNAT1, FUNCTION,
+RP   ACTIVATION MECHANISM, TOPOLOGY, GLYCOSYLATION AT ASN-2 AND ASN-15,
+RP   PALMITOYLATION AT CYS-322 AND CYS-323, AND DISULFIDE BONDS.
+RX   PubMed=18818650; DOI=10.1038/nature07330;
+RA   Scheerer P., Park J.H., Hildebrand P.W., Kim Y.J., Krauss N., Choe H.-W.,
+RA   Hofmann K.P., Ernst O.P.;
+RT   "Crystal structure of opsin in its G-protein-interacting conformation.";
+RL   Nature 455:497-502(2008).
+RN   [38] {ECO:0007744|PDB:2X72}
+RP   X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) OF MUTANT GLN-113 IN COMPLEX WITH
+RP   GNAT1, FUNCTION, GLYCOSYLATION AT ASN-15, DISULFIDE BONDS, AND MUTAGENESIS
+RP   OF GLU-113.
+RX   PubMed=21389983; DOI=10.1038/nature09795;
+RA   Standfuss J., Edwards P.C., D'Antona A., Fransen M., Xie G., Oprian D.D.,
+RA   Schertler G.F.;
+RT   "The structural basis of agonist-induced activation in constitutively
+RT   active rhodopsin.";
+RL   Nature 471:656-660(2011).
+RN   [39] {ECO:0007744|PDB:4A4M}
+RP   X-RAY CRYSTALLOGRAPHY (3.30 ANGSTROMS) OF MUTANT TYR-257 IN COMPLEX WITH
+RP   ALL-TRANS-RETINAL AND GNAT3, FUNCTION, PALMITOYLATION AT CYS-323,
+RP   GLYCOSYLATION AT ASN-15, DISULFIDE BOND, AND MUTAGENESIS OF MET-257.
+RX   PubMed=22198838; DOI=10.1073/pnas.1114089108;
+RA   Deupi X., Edwards P., Singhal A., Nickle B., Oprian D., Schertler G.,
+RA   Standfuss J.;
+RT   "Stabilized G protein binding site in the structure of constitutively
+RT   active metarhodopsin-II.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:119-124(2012).
+RN   [40] {ECO:0007744|PDB:4BEY, ECO:0007744|PDB:4BEZ}
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) OF MUTANT ASP-90 IN COMPLEX WITH
+RP   GNAT1, INTERACTION WITH GNAT1 AND SAG, TOPOLOGY, GLYCOSYLATION AT ASN-15,
+RP   PALMITOYLATION AT CYS-323, DISULFIDE BONDS, BIOPHYSICOCHEMICAL PROPERTIES,
+RP   AND MUTAGENESIS OF GLY-90.
+RX   PubMed=23579341; DOI=10.1038/embor.2013.44;
+RA   Singhal A., Ostermaier M.K., Vishnivetskiy S.A., Panneels V., Homan K.T.,
+RA   Tesmer J.J., Veprintsev D., Deupi X., Gurevich V.V., Schertler G.F.,
+RA   Standfuss J.;
+RT   "Insights into congenital stationary night blindness based on the structure
+RT   of G90D rhodopsin.";
+RL   EMBO Rep. 14:520-526(2013).
+RN   [41] {ECO:0007744|PDB:4PXF}
+RP   X-RAY CRYSTALLOGRAPHY (2.75 ANGSTROMS) IN COMPLEX WITH SAG PEPTIDE,
+RP   FUNCTION, INTERACTION WITH SAG AND GNAT1, TOPOLOGY, GLYCOSYLATION AT
+RP   ASN-15, AND DISULFIDE BONDS.
+RX   PubMed=25205354; DOI=10.1038/ncomms5801;
+RA   Szczepek M., Beyriere F., Hofmann K.P., Elgeti M., Kazmin R., Rose A.,
+RA   Bartl F.J., von Stetten D., Heck M., Sommer M.E., Hildebrand P.W.,
+RA   Scheerer P.;
+RT   "Crystal structure of a common GPCR-binding interface for G protein and
+RT   arrestin.";
+RL   Nat. Commun. 5:4801-4801(2014).
+RN   [42] {ECO:0007744|PDB:4X1H}
+RP   X-RAY CRYSTALLOGRAPHY (2.29 ANGSTROMS) IN COMPLEX WITH GNAT1 PEPTIDE,
+RP   TOPOLOGY, GLYCOSYLATION AT ASN-2 AND ASN-15, PALMITOYLATION AT CYS-322 AND
+RP   CYS-323, AND DISULFIDE BOND.
+RX   PubMed=26526852; DOI=10.1016/j.str.2015.09.015;
+RA   Blankenship E., Vahedi-Faridi A., Lodowski D.T.;
+RT   "The High-Resolution Structure of Activated Opsin Reveals a Conserved
+RT   Solvent Network in the Transmembrane Region Essential for Activation.";
+RL   Structure 23:2358-2364(2015).
+RN   [43] {ECO:0007744|PDB:5DYS, ECO:0007744|PDB:5EN0}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF MUTANT ILE-94 IN COMPLEX WITH
+RP   ALL-TRANS-RETINAL AND GNAT3, FUNCTION, TOPOLOGY, GLYCOSYLATION AT ASN-15,
+RP   PALMITOYLATION AT CYS-322 AND CYS-323, DISULFIDE BONDS, AND MUTAGENESIS OF
+RP   THR-94.
+RX   PubMed=27458239; DOI=10.15252/embr.201642671;
+RA   Singhal A., Guo Y., Matkovic M., Schertler G., Deupi X., Yan E.C.,
+RA   Standfuss J.;
+RT   "Structural role of the T94I rhodopsin mutation in congenital stationary
+RT   night blindness.";
+RL   EMBO Rep. 17:1431-1440(2016).
+CC   -!- FUNCTION: Photoreceptor required for image-forming vision at low light
+CC       intensity. Required for photoreceptor cell viability after birth (By
+CC       similarity). Light-induced isomerization of 11-cis to all-trans retinal
+CC       triggers a conformational change that activates signaling via G-
+CC       proteins (PubMed:10926528, PubMed:12044163, PubMed:11972040,
+CC       PubMed:16908857, PubMed:16586416, PubMed:17060607, PubMed:17449675,
+CC       PubMed:18818650, PubMed:21389983, PubMed:22198838, PubMed:23579341,
+CC       PubMed:25205354, PubMed:27458239). Subsequent receptor phosphorylation
+CC       mediates displacement of the bound G-protein alpha subunit by the
+CC       arrestin SAG and terminates signaling (PubMed:1396673,
+CC       PubMed:15111114). {ECO:0000250|UniProtKB:P08100,
+CC       ECO:0000269|PubMed:1396673, ECO:0000269|PubMed:16586416,
+CC       ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+CC       ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:18818650,
+CC       ECO:0000269|PubMed:21389983, ECO:0000269|PubMed:22198838,
+CC       ECO:0000269|PubMed:23579341, ECO:0000269|PubMed:25205354,
+CC       ECO:0000269|PubMed:27458239, ECO:0000305|PubMed:10926528,
+CC       ECO:0000305|PubMed:11972040, ECO:0000305|PubMed:12044163,
+CC       ECO:0000305|PubMed:15111114, ECO:0000305|PubMed:26526852}.
+CC   -!- SUBUNIT: Homodimer (PubMed:23303210, PubMed:18563085). May form a
+CC       complex composed of RHO, GRK1 and RCVRN in a Ca(2+)-dependent manner;
+CC       RCVRN prevents the interaction between GRK1 and RHO (PubMed:17020884).
+CC       Interacts with GRK1 (By similarity). Interacts (phosphorylated form)
+CC       with SAG (PubMed:26200343, PubMed:15111114, PubMed:15351781,
+CC       PubMed:23579341, PubMed:25205354). Interacts with GNAT1
+CC       (PubMed:23303210, PubMed:28655769, PubMed:18818650, PubMed:21389983,
+CC       PubMed:23579341, PubMed:26526852). Interacts with GNAT3
+CC       (PubMed:22198838, PubMed:27458239). SAG and G-proteins compete for a
+CC       common binding site (By similarity). Interacts with PRCD; the
+CC       interaction promotes PRCD stability (PubMed:27509380).
+CC       {ECO:0000250|UniProtKB:P08100, ECO:0000269|PubMed:11425302,
+CC       ECO:0000269|PubMed:15111114, ECO:0000269|PubMed:15351781,
+CC       ECO:0000269|PubMed:16586416, ECO:0000269|PubMed:17020884,
+CC       ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:18563085,
+CC       ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+CC       ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23303210,
+CC       ECO:0000269|PubMed:23579341, ECO:0000269|PubMed:25205354,
+CC       ECO:0000269|PubMed:26200343, ECO:0000269|PubMed:26526852,
+CC       ECO:0000269|PubMed:27458239, ECO:0000269|PubMed:27509380,
+CC       ECO:0000269|PubMed:28655769}.
+CC   -!- INTERACTION:
+CC       P02699; P04695: GNAT1; NbExp=3; IntAct=EBI-8592832, EBI-7052221;
+CC       P02699; P02699: RHO; NbExp=6; IntAct=EBI-8592832, EBI-8592832;
+CC       P02699; P08168-1: SAG; NbExp=23; IntAct=EBI-8592832, EBI-15575296;
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000269|PubMed:10926528,
+CC       ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23303210,
+CC       ECO:0000269|PubMed:27509380, ECO:0000269|PubMed:3350146,
+CC       ECO:0000269|PubMed:9541408}; Multi-pass membrane protein
+CC       {ECO:0000269|PubMed:10926528, ECO:0000269|PubMed:11425302,
+CC       ECO:0000269|PubMed:11972040, ECO:0000269|PubMed:15327956,
+CC       ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+CC       ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+CC       ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+CC       ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+CC       ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+CC       ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+CC       ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+CC       ECO:0000269|PubMed:27458239}. Cell projection, cilium, photoreceptor
+CC       outer segment {ECO:0000269|PubMed:27509380,
+CC       ECO:0000269|PubMed:28655769, ECO:0000269|PubMed:3350146,
+CC       ECO:0000269|PubMed:9541408}. Note=Synthesized in the inner segment (IS)
+CC       of rod photoreceptor cells before vectorial transport to disk membranes
+CC       in the rod outer segment (OS) photosensory cilia.
+CC       {ECO:0000250|UniProtKB:P08100}.
+CC   -!- TISSUE SPECIFICITY: Expressed in rod-shaped photoreceptor cells in the
+CC       retina that mediate vision in dim light (at protein level).
+CC       {ECO:0000269|PubMed:23303210, ECO:0000269|PubMed:28655769,
+CC       ECO:0000269|PubMed:3350146, ECO:0000269|PubMed:9541408}.
+CC   -!- PTM: Phosphorylated on some or all of the serine and threonine residues
+CC       present in the C-terminal region. {ECO:0000269|PubMed:1396673,
+CC       ECO:0000269|PubMed:15111114, ECO:0000269|PubMed:15351781}.
+CC   -!- PTM: Contains one covalently linked retinal chromophore. Upon light
+CC       absorption, the covalently bound 11-cis-retinal is converted to all-
+CC       trans-retinal. After hydrolysis of the Schiff base and release of the
+CC       covalently bound all-trans-retinal, active rhodopsin is regenerated by
+CC       binding of a fresh molecule of 11-cis-retinal.
+CC       {ECO:0000269|PubMed:10926528, ECO:0000269|PubMed:11425302,
+CC       ECO:0000269|PubMed:11972040, ECO:0000269|PubMed:12044163,
+CC       ECO:0000269|PubMed:15327956, ECO:0000269|PubMed:15491621,
+CC       ECO:0000269|PubMed:16586416, ECO:0000269|PubMed:16908857,
+CC       ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:21389983,
+CC       ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23303210,
+CC       ECO:0000269|PubMed:27458239, ECO:0000269|PubMed:6870827,
+CC       ECO:0000305|PubMed:6759163}.
+CC   -!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family. Opsin
+CC       subfamily. {ECO:0000255|PROSITE-ProRule:PRU00521}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; K00506; AAA30674.1; -; Genomic_DNA.
+DR   EMBL; K00502; AAA30674.1; JOINED; Genomic_DNA.
+DR   EMBL; K00503; AAA30674.1; JOINED; Genomic_DNA.
+DR   EMBL; K00504; AAA30674.1; JOINED; Genomic_DNA.
+DR   EMBL; K00505; AAA30674.1; JOINED; Genomic_DNA.
+DR   EMBL; M21606; AAA30675.1; -; mRNA.
+DR   PIR; A90840; OOBO.
+DR   RefSeq; NP_001014890.1; NM_001014890.2.
+DR   PDB; 1BOJ; Model; -; A=1-348.
+DR   PDB; 1BOK; Model; -; A=1-348.
+DR   PDB; 1EDS; NMR; -; A=93-123.
+DR   PDB; 1EDV; NMR; -; A=172-205.
+DR   PDB; 1EDW; NMR; -; A=268-293.
+DR   PDB; 1EDX; NMR; -; A=1-40.
+DR   PDB; 1F88; X-ray; 2.80 A; A/B=1-348.
+DR   PDB; 1FDF; NMR; -; A=291-315.
+DR   PDB; 1GZM; X-ray; 2.65 A; A/B=1-348.
+DR   PDB; 1HZX; X-ray; 2.80 A; A/B=1-348.
+DR   PDB; 1JFP; NMR; -; A=1-348.
+DR   PDB; 1L9H; X-ray; 2.60 A; A/B=1-348.
+DR   PDB; 1LN6; NMR; -; A=1-348.
+DR   PDB; 1N3M; Model; -; A/B/C/D/E/F=1-348.
+DR   PDB; 1NZS; NMR; -; A=330-348.
+DR   PDB; 1OV0; Model; -; A=1-348.
+DR   PDB; 1OV1; Model; -; A=1-348.
+DR   PDB; 1U19; X-ray; 2.20 A; A/B=1-348.
+DR   PDB; 1VQX; NMR; -; A=330-348.
+DR   PDB; 2G87; X-ray; 2.60 A; A/B=1-348.
+DR   PDB; 2HPY; X-ray; 2.80 A; A/B=1-348.
+DR   PDB; 2I35; X-ray; 3.80 A; A=1-348.
+DR   PDB; 2I36; X-ray; 4.10 A; A/B/C=1-348.
+DR   PDB; 2I37; X-ray; 4.15 A; A/B/C=1-348.
+DR   PDB; 2IQK; Model; -; A=1-348.
+DR   PDB; 2J4Y; X-ray; 3.40 A; A/B=1-348.
+DR   PDB; 2PED; X-ray; 2.95 A; A/B=1-348.
+DR   PDB; 2X72; X-ray; 3.00 A; A=1-348.
+DR   PDB; 3C9L; X-ray; 2.65 A; A=1-348.
+DR   PDB; 3C9M; X-ray; 3.40 A; A=1-348.
+DR   PDB; 3CAP; X-ray; 2.90 A; A/B=1-348.
+DR   PDB; 3DQB; X-ray; 3.20 A; A=1-348.
+DR   PDB; 3OAX; X-ray; 2.60 A; A/B=1-348.
+DR   PDB; 3PQR; X-ray; 2.85 A; A=1-348.
+DR   PDB; 3PXO; X-ray; 3.00 A; A=1-348.
+DR   PDB; 4A4M; X-ray; 3.30 A; A=1-348.
+DR   PDB; 4BEY; X-ray; 2.90 A; A=1-348.
+DR   PDB; 4BEZ; X-ray; 3.30 A; A=1-348.
+DR   PDB; 4J4Q; X-ray; 2.65 A; A=1-348.
+DR   PDB; 4PXF; X-ray; 2.75 A; A=1-348.
+DR   PDB; 4X1H; X-ray; 2.29 A; A=1-348.
+DR   PDB; 5DYS; X-ray; 2.30 A; A=1-348.
+DR   PDB; 5EN0; X-ray; 2.81 A; A=1-348.
+DR   PDB; 5TE3; X-ray; 2.70 A; A=1-348.
+DR   PDB; 5TE5; X-ray; 4.01 A; A=1-348.
+DR   PDB; 5WKT; X-ray; 3.20 A; A=1-348.
+DR   PDB; 6FK6; X-ray; 2.36 A; A=1-326.
+DR   PDB; 6FK7; X-ray; 2.62 A; A=1-348.
+DR   PDB; 6FK8; X-ray; 2.87 A; A=1-348.
+DR   PDB; 6FK9; X-ray; 2.63 A; A=1-348.
+DR   PDB; 6FKA; X-ray; 2.70 A; A=1-348.
+DR   PDB; 6FKB; X-ray; 3.03 A; A=1-328.
+DR   PDB; 6FKC; X-ray; 2.46 A; A=1-348.
+DR   PDB; 6FKD; X-ray; 2.49 A; A=1-348.
+DR   PDB; 6FUF; X-ray; 3.12 A; A=2-317.
+DR   PDB; 6NWE; X-ray; 2.71 A; A=1-348.
+DR   PDB; 6OFJ; EM; 4.50 A; A/B=1-348.
+DR   PDB; 6OY9; EM; 3.90 A; R=1-348.
+DR   PDB; 6OYA; EM; 3.30 A; R=1-348.
+DR   PDB; 6PEL; X-ray; 3.19 A; A=1-348.
+DR   PDB; 6PGS; X-ray; 2.90 A; A=1-348.
+DR   PDB; 6PH7; X-ray; 2.90 A; A=1-348.
+DR   PDB; 6QNO; EM; 4.38 A; R=1-348.
+DR   PDBsum; 1BOJ; -.
+DR   PDBsum; 1BOK; -.
+DR   PDBsum; 1EDS; -.
+DR   PDBsum; 1EDV; -.
+DR   PDBsum; 1EDW; -.
+DR   PDBsum; 1EDX; -.
+DR   PDBsum; 1F88; -.
+DR   PDBsum; 1FDF; -.
+DR   PDBsum; 1GZM; -.
+DR   PDBsum; 1HZX; -.
+DR   PDBsum; 1JFP; -.
+DR   PDBsum; 1L9H; -.
+DR   PDBsum; 1LN6; -.
+DR   PDBsum; 1N3M; -.
+DR   PDBsum; 1NZS; -.
+DR   PDBsum; 1OV0; -.
+DR   PDBsum; 1OV1; -.
+DR   PDBsum; 1U19; -.
+DR   PDBsum; 1VQX; -.
+DR   PDBsum; 2G87; -.
+DR   PDBsum; 2HPY; -.
+DR   PDBsum; 2I35; -.
+DR   PDBsum; 2I36; -.
+DR   PDBsum; 2I37; -.
+DR   PDBsum; 2IQK; -.
+DR   PDBsum; 2J4Y; -.
+DR   PDBsum; 2PED; -.
+DR   PDBsum; 2X72; -.
+DR   PDBsum; 3C9L; -.
+DR   PDBsum; 3C9M; -.
+DR   PDBsum; 3CAP; -.
+DR   PDBsum; 3DQB; -.
+DR   PDBsum; 3OAX; -.
+DR   PDBsum; 3PQR; -.
+DR   PDBsum; 3PXO; -.
+DR   PDBsum; 4A4M; -.
+DR   PDBsum; 4BEY; -.
+DR   PDBsum; 4BEZ; -.
+DR   PDBsum; 4J4Q; -.
+DR   PDBsum; 4PXF; -.
+DR   PDBsum; 4X1H; -.
+DR   PDBsum; 5DYS; -.
+DR   PDBsum; 5EN0; -.
+DR   PDBsum; 5TE3; -.
+DR   PDBsum; 5TE5; -.
+DR   PDBsum; 5WKT; -.
+DR   PDBsum; 6FK6; -.
+DR   PDBsum; 6FK7; -.
+DR   PDBsum; 6FK8; -.
+DR   PDBsum; 6FK9; -.
+DR   PDBsum; 6FKA; -.
+DR   PDBsum; 6FKB; -.
+DR   PDBsum; 6FKC; -.
+DR   PDBsum; 6FKD; -.
+DR   PDBsum; 6FUF; -.
+DR   PDBsum; 6NWE; -.
+DR   PDBsum; 6OFJ; -.
+DR   PDBsum; 6OY9; -.
+DR   PDBsum; 6OYA; -.
+DR   PDBsum; 6PEL; -.
+DR   PDBsum; 6PGS; -.
+DR   PDBsum; 6PH7; -.
+DR   PDBsum; 6QNO; -.
+DR   BMRB; P02699; -.
+DR   SMR; P02699; -.
+DR   BioGRID; 166570; 2.
+DR   DIP; DIP-29225N; -.
+DR   ELM; P02699; -.
+DR   IntAct; P02699; 5.
+DR   MINT; P02699; -.
+DR   STRING; 9913.ENSBTAP00000001730; -.
+DR   BindingDB; P02699; -.
+DR   ChEMBL; CHEMBL5739; -.
+DR   TCDB; 9.A.14.1.17; the g-protein-coupled receptor (gpcr) family.
+DR   GlyConnect; 523; 4 N-Linked glycans.
+DR   iPTMnet; P02699; -.
+DR   SwissPalm; P02699; -.
+DR   PaxDb; P02699; -.
+DR   ABCD; P02699; 1 sequenced antibody.
+DR   Ensembl; ENSBTAT00000001730; ENSBTAP00000001730; ENSBTAG00000001310.
+DR   GeneID; 509933; -.
+DR   KEGG; bta:509933; -.
+DR   CTD; 6010; -.
+DR   VGNC; VGNC:33942; RHO.
+DR   eggNOG; KOG3656; Eukaryota.
+DR   GeneTree; ENSGT01020000230491; -.
+DR   HOGENOM; CLU_009579_3_0_1; -.
+DR   InParanoid; P02699; -.
+DR   OMA; QYYLVNP; -.
+DR   OrthoDB; 940057at2759; -.
+DR   TreeFam; TF324998; -.
+DR   Reactome; R-BTA-2453902; The canonical retinoid cycle in rods (twilight vision).
+DR   Reactome; R-BTA-2485179; Activation of the phototransduction cascade.
+DR   Reactome; R-BTA-2514859; Inactivation, recovery and regulation of the phototransduction cascade.
+DR   Reactome; R-BTA-418594; G alpha (i) signalling events.
+DR   Reactome; R-BTA-419771; Opsins.
+DR   Reactome; R-BTA-5620916; VxPx cargo-targeting to cilium.
+DR   EvolutionaryTrace; P02699; -.
+DR   PRO; PR:P02699; -.
+DR   Proteomes; UP000009136; Chromosome 22.
+DR   Bgee; ENSBTAG00000001310; Expressed in testis and 2 other tissues.
+DR   GO; GO:0005911; C:cell-cell junction; IEA:Ensembl.
+DR   GO; GO:0097648; C:G protein-coupled receptor complex; IDA:CAFA.
+DR   GO; GO:0000139; C:Golgi membrane; TAS:Reactome.
+DR   GO; GO:0016021; C:integral component of membrane; IDA:UniProtKB.
+DR   GO; GO:0005887; C:integral component of plasma membrane; IDA:AgBase.
+DR   GO; GO:0019867; C:outer membrane; IDA:CAFA.
+DR   GO; GO:0097381; C:photoreceptor disc membrane; ISS:UniProtKB.
+DR   GO; GO:0060342; C:photoreceptor inner segment membrane; ISS:UniProtKB.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IBA:GO_Central.
+DR   GO; GO:0042622; C:photoreceptor outer segment membrane; IDA:CAFA.
+DR   GO; GO:0005886; C:plasma membrane; ISS:UniProtKB.
+DR   GO; GO:1990913; C:sperm head plasma membrane; IEA:Ensembl.
+DR   GO; GO:0097225; C:sperm midpiece; IEA:Ensembl.
+DR   GO; GO:0005502; F:11-cis retinal binding; IDA:UniProtKB.
+DR   GO; GO:1990763; F:arrestin family protein binding; IPI:CAFA.
+DR   GO; GO:0008020; F:G protein-coupled photoreceptor activity; IDA:UniProtKB.
+DR   GO; GO:0001965; F:G-protein alpha-subunit binding; IPI:CAFA.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IDA:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0002046; F:opsin binding; IDA:CAFA.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:CAFA.
+DR   GO; GO:0016038; P:absorption of visible light; IDA:UniProtKB.
+DR   GO; GO:0071482; P:cellular response to light stimulus; IBA:GO_Central.
+DR   GO; GO:0050960; P:detection of temperature stimulus involved in thermoception; IEA:Ensembl.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0045494; P:photoreceptor cell maintenance; IEA:Ensembl.
+DR   GO; GO:0007602; P:phototransduction; IBA:GO_Central.
+DR   GO; GO:0007603; P:phototransduction, visible light; IDA:AgBase.
+DR   GO; GO:0006468; P:protein phosphorylation; IEA:Ensembl.
+DR   GO; GO:0018298; P:protein-chromophore linkage; IEA:UniProtKB-KW.
+DR   GO; GO:0009416; P:response to light stimulus; IDA:CAFA.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0016056; P:rhodopsin mediated signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0043052; P:thermotaxis; IEA:Ensembl.
+DR   GO; GO:0007601; P:visual perception; IEA:UniProtKB-KW.
+DR   DisProt; DP00271; -.
+DR   IDEAL; IID50247; -.
+DR   InterPro; IPR000276; GPCR_Rhodpsn.
+DR   InterPro; IPR017452; GPCR_Rhodpsn_7TM.
+DR   InterPro; IPR001760; Opsin.
+DR   InterPro; IPR027430; Retinal_BS.
+DR   InterPro; IPR000732; Rhodopsin.
+DR   InterPro; IPR019477; Rhodopsin_N.
+DR   Pfam; PF00001; 7tm_1; 1.
+DR   Pfam; PF10413; Rhodopsin_N; 1.
+DR   PRINTS; PR00237; GPCRRHODOPSN.
+DR   PRINTS; PR00238; OPSIN.
+DR   PRINTS; PR00579; RHODOPSIN.
+DR   SMART; SM01381; 7TM_GPCR_Srsx; 1.
+DR   PROSITE; PS00237; G_PROTEIN_RECEP_F1_1; 1.
+DR   PROSITE; PS50262; G_PROTEIN_RECEP_F1_2; 1.
+DR   PROSITE; PS00238; OPSIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Cell projection; Chromophore;
+KW   Direct protein sequencing; Disulfide bond; G-protein coupled receptor;
+KW   Glycoprotein; Lipoprotein; Membrane; Metal-binding; Palmitate;
+KW   Phosphoprotein; Photoreceptor protein; Receptor; Reference proteome;
+KW   Retinal protein; Sensory transduction; Transducer; Transmembrane;
+KW   Transmembrane helix; Vision; Zinc.
+FT   CHAIN           1..348
+FT                   /note="Rhodopsin"
+FT                   /id="PRO_0000197653"
+FT   TOPO_DOM        1..36
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TRANSMEM        37..61
+FT                   /note="Helical; Name=1"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TOPO_DOM        62..73
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TRANSMEM        74..96
+FT                   /note="Helical; Name=2"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TOPO_DOM        97..110
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TRANSMEM        111..133
+FT                   /note="Helical; Name=3"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TOPO_DOM        134..152
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TRANSMEM        153..173
+FT                   /note="Helical; Name=4"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TOPO_DOM        174..202
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TRANSMEM        203..224
+FT                   /note="Helical; Name=5"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TOPO_DOM        225..252
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TRANSMEM        253..274
+FT                   /note="Helical; Name=6"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TOPO_DOM        275..286
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TRANSMEM        287..308
+FT                   /note="Helical; Name=7"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   TOPO_DOM        309..348
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17060607,
+FT                   ECO:0000269|PubMed:17449675, ECO:0000269|PubMed:17825322,
+FT                   ECO:0000269|PubMed:18563085, ECO:0000269|PubMed:18645239,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239"
+FT   REGION          330..348
+FT                   /note="Interaction with SAG"
+FT                   /evidence="ECO:0000269|PubMed:15111114"
+FT   MOTIF           134..136
+FT                   /note="'Ionic lock' involved in activated form
+FT                   stabilization"
+FT                   /evidence="ECO:0000305|PubMed:21389983,
+FT                   ECO:0000305|PubMed:22198838, ECO:0000305|PubMed:26526852,
+FT                   ECO:0000305|PubMed:27458239"
+FT   METAL           201
+FT                   /note="Zinc"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0007744|PDB:1F88,
+FT                   ECO:0007744|PDB:1HZX"
+FT   METAL           279
+FT                   /note="Zinc"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0007744|PDB:1F88,
+FT                   ECO:0007744|PDB:1HZX"
+FT   SITE            113
+FT                   /note="Plays an important role in the conformation switch
+FT                   to the active conformation"
+FT                   /evidence="ECO:0000269|PubMed:21389983,
+FT                   ECO:0000305|PubMed:22198838, ECO:0000305|PubMed:23579341,
+FT                   ECO:0000305|PubMed:27458239"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0000305|PubMed:6759163"
+FT   MOD_RES         296
+FT                   /note="N6-(retinylidene)lysine"
+FT                   /evidence="ECO:0000269|PubMed:10926528,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16586416,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:17449675,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23303210,
+FT                   ECO:0000269|PubMed:27458239, ECO:0000269|PubMed:6870827,
+FT                   ECO:0000305|PubMed:6759163, ECO:0007744|PDB:1F88,
+FT                   ECO:0007744|PDB:1GZM, ECO:0007744|PDB:1HZX,
+FT                   ECO:0007744|PDB:1JFP, ECO:0007744|PDB:2HPY,
+FT                   ECO:0007744|PDB:3C9L, ECO:0007744|PDB:3OAX,
+FT                   ECO:0007744|PDB:3PQR, ECO:0007744|PDB:3PXO,
+FT                   ECO:0007744|PDB:5DYS"
+FT   MOD_RES         334
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:15111114,
+FT                   ECO:0000269|PubMed:15351781"
+FT   MOD_RES         335
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:15111114,
+FT                   ECO:0000269|PubMed:15351781"
+FT   MOD_RES         336
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:15111114,
+FT                   ECO:0000269|PubMed:15351781"
+FT   MOD_RES         338
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:15111114,
+FT                   ECO:0000269|PubMed:15351781"
+FT   MOD_RES         340
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:15111114,
+FT                   ECO:0000269|PubMed:15351781"
+FT   MOD_RES         342
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:15111114,
+FT                   ECO:0000269|PubMed:15351781"
+FT   MOD_RES         343
+FT                   /note="Phosphoserine; by RK and GRK7"
+FT                   /evidence="ECO:0000269|PubMed:1396673,
+FT                   ECO:0000269|PubMed:15111114, ECO:0000269|PubMed:15351781"
+FT   LIPID           322
+FT                   /note="S-palmitoyl cysteine"
+FT                   /evidence="ECO:0000269|PubMed:11425302,
+FT                   ECO:0000269|PubMed:11972040, ECO:0000269|PubMed:1512231,
+FT                   ECO:0000269|PubMed:15327956, ECO:0000269|PubMed:16908857,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239, ECO:0000269|PubMed:3350146,
+FT                   ECO:0007744|PDB:1HZX, ECO:0007744|PDB:1L9H,
+FT                   ECO:0007744|PDB:2HPY, ECO:0007744|PDB:4X1H,
+FT                   ECO:0007744|PDB:5DYS"
+FT   LIPID           323
+FT                   /note="S-palmitoyl cysteine"
+FT                   /evidence="ECO:0000269|PubMed:11425302,
+FT                   ECO:0000269|PubMed:11972040, ECO:0000269|PubMed:1512231,
+FT                   ECO:0000269|PubMed:15327956, ECO:0000269|PubMed:16908857,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:27458239, ECO:0000269|PubMed:3350146,
+FT                   ECO:0007744|PDB:1HZX, ECO:0007744|PDB:1L9H,
+FT                   ECO:0007744|PDB:2HPY, ECO:0007744|PDB:4BEY,
+FT                   ECO:0007744|PDB:4PXF, ECO:0007744|PDB:4X1H,
+FT                   ECO:0007744|PDB:5DYS"
+FT   CARBOHYD        2
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:11425302,
+FT                   ECO:0000269|PubMed:15327956, ECO:0000269|PubMed:15491621,
+FT                   ECO:0000269|PubMed:16908857, ECO:0000269|PubMed:18818650,
+FT                   ECO:0000269|PubMed:26526852, ECO:0000269|PubMed:468821,
+FT                   ECO:0000269|PubMed:6759163, ECO:0007744|PDB:1F88,
+FT                   ECO:0007744|PDB:1GZM, ECO:0007744|PDB:1HZX,
+FT                   ECO:0007744|PDB:1U19, ECO:0007744|PDB:2G87,
+FT                   ECO:0007744|PDB:2HPY, ECO:0007744|PDB:2I35,
+FT                   ECO:0007744|PDB:2I36, ECO:0007744|PDB:2I37,
+FT                   ECO:0007744|PDB:2PED, ECO:0007744|PDB:3C9L,
+FT                   ECO:0007744|PDB:3CAP, ECO:0007744|PDB:3DQB,
+FT                   ECO:0007744|PDB:3OAX, ECO:0007744|PDB:3PQR,
+FT                   ECO:0007744|PDB:3PXO, ECO:0007744|PDB:4X1H"
+FT   CARBOHYD        15
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:11425302,
+FT                   ECO:0000269|PubMed:11972040, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16908857,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:22198838, ECO:0000269|PubMed:23579341,
+FT                   ECO:0000269|PubMed:25205354, ECO:0000269|PubMed:26526852,
+FT                   ECO:0000269|PubMed:468821, ECO:0000269|PubMed:6759163,
+FT                   ECO:0007744|PDB:1F88, ECO:0007744|PDB:1GZM,
+FT                   ECO:0007744|PDB:1HZX, ECO:0007744|PDB:1L9H,
+FT                   ECO:0007744|PDB:1U19, ECO:0007744|PDB:2G87,
+FT                   ECO:0007744|PDB:2HPY, ECO:0007744|PDB:2I35,
+FT                   ECO:0007744|PDB:2I36, ECO:0007744|PDB:2I37,
+FT                   ECO:0007744|PDB:2J4Y, ECO:0007744|PDB:2PED,
+FT                   ECO:0007744|PDB:2X72, ECO:0007744|PDB:3C9L,
+FT                   ECO:0007744|PDB:3C9M, ECO:0007744|PDB:3CAP,
+FT                   ECO:0007744|PDB:3DQB, ECO:0007744|PDB:3OAX,
+FT                   ECO:0007744|PDB:3PQR, ECO:0007744|PDB:3PXO,
+FT                   ECO:0007744|PDB:4A4M, ECO:0007744|PDB:4BEY,
+FT                   ECO:0007744|PDB:4BEZ, ECO:0007744|PDB:4J4Q,
+FT                   ECO:0007744|PDB:4PXF, ECO:0007744|PDB:4X1H,
+FT                   ECO:0007744|PDB:5DYS, ECO:0007744|PDB:5EN0,
+FT                   ECO:0007744|PDB:5TE3"
+FT   DISULFID        110..187
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00521,
+FT                   ECO:0000269|PubMed:11425302, ECO:0000269|PubMed:11972040,
+FT                   ECO:0000269|PubMed:12044163, ECO:0000269|PubMed:15327956,
+FT                   ECO:0000269|PubMed:15491621, ECO:0000269|PubMed:16908857,
+FT                   ECO:0000269|PubMed:18818650, ECO:0000269|PubMed:21389983,
+FT                   ECO:0000269|PubMed:2145276, ECO:0000269|PubMed:22198838,
+FT                   ECO:0000269|PubMed:23579341, ECO:0000269|PubMed:26526852,
+FT                   ECO:0007744|PDB:1F88, ECO:0007744|PDB:1GZM,
+FT                   ECO:0007744|PDB:1HZX, ECO:0007744|PDB:1JFP,
+FT                   ECO:0007744|PDB:1L9H, ECO:0007744|PDB:1LN6,
+FT                   ECO:0007744|PDB:1U19, ECO:0007744|PDB:2G87,
+FT                   ECO:0007744|PDB:2HPY, ECO:0007744|PDB:2I35,
+FT                   ECO:0007744|PDB:2I36, ECO:0007744|PDB:2I37,
+FT                   ECO:0007744|PDB:2J4Y, ECO:0007744|PDB:2PED,
+FT                   ECO:0007744|PDB:2X72, ECO:0007744|PDB:3C9L,
+FT                   ECO:0007744|PDB:3C9M, ECO:0007744|PDB:3CAP,
+FT                   ECO:0007744|PDB:3DQB, ECO:0007744|PDB:3OAX,
+FT                   ECO:0007744|PDB:3PQR, ECO:0007744|PDB:3PXO,
+FT                   ECO:0007744|PDB:4A4M, ECO:0007744|PDB:4BEY,
+FT                   ECO:0007744|PDB:4BEZ, ECO:0007744|PDB:4J4Q,
+FT                   ECO:0007744|PDB:4PXF, ECO:0007744|PDB:4X1H,
+FT                   ECO:0007744|PDB:5DYS, ECO:0007744|PDB:5EN0,
+FT                   ECO:0007744|PDB:5TE3, ECO:0007744|PDB:5TE5"
+FT   MUTAGEN         2
+FT                   /note="N->C: Stabilized by a disulfide bond and normal
+FT                   light absorption; when associated with C-282 and D-15."
+FT                   /evidence="ECO:0000269|PubMed:17825322"
+FT   MUTAGEN         15
+FT                   /note="N->D: Normal light absorption; when associated with
+FT                   C-2 and C-282."
+FT                   /evidence="ECO:0000269|PubMed:17825322"
+FT   MUTAGEN         90
+FT                   /note="G->D: Increased thermal stability and decreased
+FT                   retinal uptake. Decreases stability of the inactive
+FT                   conformation."
+FT                   /evidence="ECO:0000269|PubMed:23579341"
+FT   MUTAGEN         94
+FT                   /note="T->I: Stabilizes the activated conformation and
+FT                   hinders hydrolysis of the covalent bond that retains all-
+FT                   trans-retinol."
+FT                   /evidence="ECO:0000269|PubMed:27458239"
+FT   MUTAGEN         113
+FT                   /note="E->Q: Causes shift to the activated conformation."
+FT                   /evidence="ECO:0000269|PubMed:21389983"
+FT   MUTAGEN         257
+FT                   /note="M->Y: Causes shift to the activated conformation."
+FT                   /evidence="ECO:0000269|PubMed:22198838"
+FT   MUTAGEN         282
+FT                   /note="D->C: Stabilized by a disulfide bond and normal
+FT                   light absorption; when associated with C-2 and D-15."
+FT                   /evidence="ECO:0000269|PubMed:17825322"
+FT   CONFLICT        281
+FT                   /note="S -> F (in Ref. 3; AAA30675)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          3..5
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   STRAND          10..13
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           15..17
+FT                   /evidence="ECO:0007744|PDB:4PXF"
+FT   TURN            23..25
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   TURN            29..31
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           34..64
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           66..68
+FT                   /evidence="ECO:0007744|PDB:4X1H"
+FT   HELIX           71..89
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           91..100
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           103..105
+FT                   /evidence="ECO:0007744|PDB:1EDS"
+FT   HELIX           106..139
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   STRAND          143..145
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           150..168
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           170..172
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   TURN            175..177
+FT                   /evidence="ECO:0007744|PDB:1EDV"
+FT   STRAND          179..181
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   TURN            182..185
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   STRAND          186..188
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           192..195
+FT                   /evidence="ECO:0007744|PDB:1EDV"
+FT   HELIX           196..198
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           200..210
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           213..223
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   TURN            224..228
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   TURN            229..231
+FT                   /evidence="ECO:0007744|PDB:3C9M"
+FT   TURN            235..238
+FT                   /evidence="ECO:0007744|PDB:3C9L"
+FT   STRAND          239..241
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           242..277
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   TURN            278..280
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           285..294
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           295..299
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           301..308
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   HELIX           311..321
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   TURN            322..324
+FT                   /evidence="ECO:0007744|PDB:4X1H"
+FT   TURN            328..330
+FT                   /evidence="ECO:0007744|PDB:1U19"
+FT   STRAND          332..334
+FT                   /evidence="ECO:0007744|PDB:1NZS"
+FT   STRAND          336..338
+FT                   /evidence="ECO:0007744|PDB:1JFP"
+FT   STRAND          339..342
+FT                   /evidence="ECO:0007744|PDB:1U19"
+SQ   SEQUENCE   348 AA;  39008 MW;  33FDA196803E81F3 CRC64;
+     MNGTEGPNFY VPFSNKTGVV RSPFEAPQYY LAEPWQFSML AAYMFLLIML GFPINFLTLY
+     VTVQHKKLRT PLNYILLNLA VADLFMVFGG FTTTLYTSLH GYFVFGPTGC NLEGFFATLG
+     GEIALWSLVV LAIERYVVVC KPMSNFRFGE NHAIMGVAFT WVMALACAAP PLVGWSRYIP
+     EGMQCSCGID YYTPHEETNN ESFVIYMFVV HFIIPLIVIF FCYGQLVFTV KEAAAQQQES
+     ATTQKAEKEV TRMVIIMVIA FLICWLPYAG VAFYIFTHQG SDFGPIFMTI PAFFAKTSAV
+     YNPVIYIMMN KQFRNCMVTT LCCGKNPLGD DEASTTVSKT ETSQVAPA
+//
